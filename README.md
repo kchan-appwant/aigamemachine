@@ -1,4 +1,4 @@
-# AI Game Generation Platform - Mockup
+# AI Game Generation Platform 
 
 A functional mockup of an AI-powered game creation platform that enables non-technical users to create HTML5 casual games through an intuitive, step-by-step workflow.
 
